@@ -1,0 +1,13 @@
+block_num,cond_file,set_size,preview_stim
+1,block_1.csv,3,preview/preview (1).png
+2,block_2.csv,6,preview/preview (2).png
+3,block_3.csv,3,preview/preview (3).png
+4,block_4.csv,6,preview/preview (4).png
+5,block_5.csv,3,preview/preview (5).png
+6,block_6.csv,6,preview/preview (6).png
+7,block_7.csv,3,preview/preview (7).png
+8,block_8.csv,6,preview/preview (8).png
+9,block_9.csv,3,preview/preview (9).png
+10,block_10.csv,6,preview/preview (10).png
+11,block_11.csv,3,preview/preview (11).png
+12,block_12.csv,3,preview/preview (12).png
